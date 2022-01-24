@@ -11,13 +11,13 @@ const Header = () => {
       name: 'test',
       text: '测试',
       path: '/test',
-      icon: 'ditu1'
+      icon: 'youji'
     },
     {
       name: 'map',
       text: '站点地图',
       path: '/map',
-      icon: 'ditu1'
+      icon: 'zhandianditu'
     },
     {
       name: 'realtime',
@@ -51,19 +51,19 @@ const Header = () => {
       name: 'project',
       text: '项目管理',
       path: '/project',
-      icon: 'jichuguanli'
+      icon: 'navicon-jgda'
     },
     {
       name: 'factor',
       text: '因子管理',
       path: '/factor',
-      icon: 'zuzhiqunzu'
+      icon: 'network'
     },
     {
       name: 'station',
       text: '国控站管理',
       path: '/station',
-      icon: 'wumoxing'
+      icon: 'zuzhiqunzu'
     }
   ]
 

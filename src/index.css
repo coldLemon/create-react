@@ -25,3 +25,8 @@ code {
 #default_content_warp::-webkit-scrollbar-thumb {
   background: #6e6e6e;
 }
+
+/* 树 */
+.ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected{
+  background: none !important;
+}
